@@ -69,7 +69,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Hi there! I’m Rico Araojo, a learner in Data Engineering and aspiring Data Engineer. I’m a Computer Engineer seeking to transition into the Data Engineering profession.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a74f6954-2175-47f1-b7a2-a8b69a12e471" /> Reference
-This output was implemented based on the tutorial of the Instructor [Data with Baraa](https://www.youtube.com/watch?v=6cJ5Ji8zSDg) in Youtube. 
+This output was implemented based on the tutorial with the title of [SQL Exploratory Data Analysis (EDA) Project](https://www.youtube.com/watch?v=6cJ5Ji8zSDg) in Youtube. 
 
 
 
